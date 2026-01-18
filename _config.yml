@@ -1,0 +1,16 @@
+title: Data scientist
+email: edvardlindelof@gmail.com
+description: >-
+  Edvard Lindelöf's personal blog
+baseurl: ""
+url: "https://edvardlindelof.github.io"
+github_username:  edvardlindelof
+linkedin_username: edvard-lindelöf-1bb623170
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+# exclude stuff from processing like so -
+# exclude:
+#   - path/to/file_or_dir
