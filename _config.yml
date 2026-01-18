@@ -1,7 +1,7 @@
-title: Data scientist
+title: "Edvard Lindelöf's personal website"
 email: edvardlindelof@gmail.com
-description: >-
-  Edvard Lindelöf's personal blog
+# description: >-
+#   Edvard Lindelöf's personal blog
 baseurl: ""
 url: "https://edvardlindelof.github.io"
 github_username:  edvardlindelof
